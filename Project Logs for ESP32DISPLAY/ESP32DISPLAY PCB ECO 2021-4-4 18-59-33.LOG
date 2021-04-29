@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VCC5V Pin=D2-1
+Removed Pin From Net: NetName=NetC9_2 Pin=D2-2
+Removed Member From Class: ClassName=ESP32DISPLAY Member=D2
+Change Component Footprint: Designator=SW1 Old Footprint=TSW DIP-2Pin-6*6*6 New Footprint=TSW SMD-3*6*2.5
+Change Component Comment : Designator=SW1 Old Comment=6x6x5 New Comment=3x6x5
+Added Component: Designator=S1(SK-22D02)
+Added Pin To Net: NetName=VCC5V Pin=S1-2
+Added Pin To Net: NetName=NetC9_2 Pin=S1-3
+Added Member To Class: ClassName=ESP32DISPLAY Member=Component C1 22uF
+Added Member To Class: ClassName=ESP32DISPLAY Member=Component C2 22uF
+Added Member To Class: ClassName=ESP32DISPLAY Member=Component C3 22uF
+Added Member To Class: ClassName=ESP32DISPLAY Member=Component C4 22uF
+Added Member To Class: ClassName=ESP32DISPLAY Member=Component D1 SS34
+Added Member To Class: ClassName=ESP32DISPLAY Member=Component JP1 HDR-1X2
+Added Member To Class: ClassName=ESP32DISPLAY Member=Component LED1 ºìÉ«
+Added Member To Class: ClassName=ESP32DISPLAY Member=Component R5 1K
+Added Member To Class: ClassName=ESP32DISPLAY Member=Component R6 1.2K
+Added Member To Class: ClassName=ESP32DISPLAY Member=Component S1 SK-22D02
+Added Room: Name=ESP32DISPLAY

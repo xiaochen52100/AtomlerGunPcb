@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC5V Pin=S1-2
+Removed Member From Class: ClassName=ESP32DISPLAY Member=S1
+Added Component: Designator=JP4(HDR2.54-LI-5P)
+Added Pin To Net: NetName=VCC5V Pin=C9-2
+Added Pin To Net: NetName=VCC5V Pin=JP4-1
+Added Pin To Net: NetName=GND Pin=JP4-2
+Added Pin To Net: NetName=BAT Pin=JP4-3
+Added Pin To Net: NetName=GND Pin=JP4-4
+Added Pin To Net: NetName=VCC5V Pin=V1-3
+Added Pin To Net: NetName=KEY Pin=JP4-5
+Added Pin To Net: NetName=KEY Pin=U1-28
+Added Net: Name=KEY
+Added Member To Class: ClassName=ESP32DISPLAY Member=Component JP4 HDR-1X5
+Added Room: Name=ESP32DISPLAY
