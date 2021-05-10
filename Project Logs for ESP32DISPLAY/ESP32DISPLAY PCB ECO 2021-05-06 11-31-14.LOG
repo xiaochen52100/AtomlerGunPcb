@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=JP1 Old Footprint=PH2.0 D-W-2P New Footprint=XH2.54-2P
+Change Component Footprint: Designator=JP2 Old Footprint=XH2.54-WI-2P New Footprint=XH2.54-2P
+Change Component Footprint: Designator=JP3 Old Footprint=XH2.54-WI-4P New Footprint=XH2.54-4P
+Added Room: Name=ESP32DISPLAY

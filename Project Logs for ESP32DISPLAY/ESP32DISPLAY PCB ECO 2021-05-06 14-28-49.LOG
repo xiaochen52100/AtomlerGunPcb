@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC5V Pin=JP4-2
+Added Pin To Net: NetName=VIN Pin=JP4-2
+Added Room: Name=ESP32DISPLAY
